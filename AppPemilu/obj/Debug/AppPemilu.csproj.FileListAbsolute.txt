@@ -1,0 +1,180 @@
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\AppPemilu.exe.config
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\AppPemilu.exe
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\AppPemilu.pdb
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.csprojResolveAssemblyReference.cache
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.Form1.resources
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.Properties.Resources.resources
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.csproj.GenerateResource.Cache
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.exe.licenses
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.exe
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.pdb
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\MakarovDev.ExpandCollapsePanel.dll
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\bin\Debug\MakarovDev.ExpandCollapsePanel.pdb
+C:\Users\xenom_user\AppData\Local\Temporary Projects\AppPemilu\obj\Debug\AppPemilu.Form2.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\AppPemilu.exe.config
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.exe
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.pdb
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.Form1.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.Properties.Resources.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.csproj.GenerateResource.Cache
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.exe.licenses
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\AppPemilu.exe
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\AppPemilu.pdb
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Data.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.DataAccess.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Xpo.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraBars.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\MakarovDev.ExpandCollapsePanel.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.CodeParser.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Office.v15.2.Core.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Data.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.DataAccess.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Xpo.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraBars.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\MakarovDev.ExpandCollapsePanel.pdb
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.Count.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.Manage.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.Rekap.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.cabut.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.input.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.FrmLogin.resources
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.csprojResolveAssemblyReference.cache
