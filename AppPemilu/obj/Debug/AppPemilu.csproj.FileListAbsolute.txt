@@ -177,4 +177,8 @@ F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\es\DevExpress.Xtr
 F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
 F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
 F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.FrmLogin.resources
-F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.csprojResolveAssemblyReference.cache
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Data Kuliah\Materi PL\Project\AppPemilu\AppPemilu\obj\Debug\AppPemilu.Koneksi_manager.resources

@@ -55,6 +55,7 @@ namespace AppPemilu
                 paneLoad.Controls.Add(Count.U1);
                 Count.U1.Dock = DockStyle.Fill;
                 Count.U1.BringToFront();
+                lblHeader.Text = "Penghitung Suara";
             }
             else
             {
@@ -63,6 +64,7 @@ namespace AppPemilu
                 expandCollapsePanel1.IsExpanded = false;
                 expandCollapsePanel2.IsExpanded = true;
                 Count.U1.BringToFront();
+                lblHeader.Text = "Penghitung Suara";
             }
         }
         private void btnManage_Click(object sender, EventArgs e)
@@ -79,6 +81,7 @@ namespace AppPemilu
                 paneLoad.Controls.Add(Manage.U2);
                 Manage.U2.Dock = DockStyle.Fill;
                 Manage.U2.BringToFront();
+                lblHeader.Text = "Data Calon Manager";
             }
             else
             {
@@ -87,6 +90,7 @@ namespace AppPemilu
                 expandCollapsePanel1.IsExpanded = true;
                 expandCollapsePanel2.IsExpanded = false;
                 Manage.U2.BringToFront();
+                lblHeader.Text = "Data Calon Manager";
             }
         }
         private void btnRekap_Click(object sender, EventArgs e)
@@ -104,6 +108,7 @@ namespace AppPemilu
                 paneLoad.Controls.Add(Rekap.U3);
                 Rekap.U3.Dock = DockStyle.Fill;
                 Rekap.U3.BringToFront();
+                lblHeader.Text = "Rekap";
             }
             else
             {
@@ -112,6 +117,7 @@ namespace AppPemilu
                 expandCollapsePanel1.IsExpanded = false;
                 expandCollapsePanel2.IsExpanded = true;
                 Rekap.U3.BringToFront();
+                lblHeader.Text = "Rekap";
             }
         }
         private void btnInput_Click(object sender, EventArgs e)
@@ -133,7 +139,7 @@ namespace AppPemilu
 
         private void btnMinimize_Click(object sender, EventArgs e)
         {
-            this.MinimizeBox = true;
+            this.WindowState = FormWindowState.Minimized;
         }
         private void TampilHasilIO()
         {

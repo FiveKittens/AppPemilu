@@ -200,5 +200,10 @@ namespace AppPemilu
             calonDao.deleteCalon(calon);
             TampilDataCalon();
         }
+
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

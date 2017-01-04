@@ -16,7 +16,7 @@ namespace AppPemilu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLogin());
+            Application.Run(new Koneksi_manager());
         }
     }
 }

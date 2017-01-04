@@ -50,6 +50,7 @@
             this.btnMinimize = new ns1.BunifuImageButton();
             this.btnDispose = new ns1.BunifuImageButton();
             this.paneLoad = new System.Windows.Forms.Panel();
+            this.lblHeader = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.expandCollapsePanel2.SuspendLayout();
             this.expandCollapsePanel1.SuspendLayout();
@@ -437,6 +438,7 @@
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.lblHeader);
             this.panel2.Controls.Add(this.btnMinimize);
             this.panel2.Controls.Add(this.btnDispose);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
@@ -486,6 +488,17 @@
             this.paneLoad.Size = new System.Drawing.Size(1223, 689);
             this.paneLoad.TabIndex = 3;
             // 
+            // lblHeader
+            // 
+            this.lblHeader.AutoSize = true;
+            this.lblHeader.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHeader.ForeColor = System.Drawing.Color.DimGray;
+            this.lblHeader.Location = new System.Drawing.Point(6, 7);
+            this.lblHeader.Name = "lblHeader";
+            this.lblHeader.Size = new System.Drawing.Size(116, 23);
+            this.lblHeader.TabIndex = 2;
+            this.lblHeader.Text = "Dashboard";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -509,6 +522,7 @@
             this.panel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnMinimize)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnDispose)).EndInit();
             this.ResumeLayout(false);
@@ -538,6 +552,7 @@
         private ns1.BunifuImageButton btnDispose;
         private ns1.BunifuImageButton btnMinimize;
         private ns1.BunifuFlatButton btnOut;
+        private System.Windows.Forms.Label lblHeader;
     }
 }
 

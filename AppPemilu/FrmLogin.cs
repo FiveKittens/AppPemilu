@@ -76,5 +76,10 @@ namespace AppPemilu
                 txtPswd.UseSystemPasswordChar = false;
             }
         }
+
+        private void bunifuImageButton2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();            
+        }
     }  
 }
