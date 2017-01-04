@@ -55,7 +55,6 @@
             this.partai_calon = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.gambar_calon = new System.Windows.Forms.DataGridViewImageColumn();
             this.label6 = new System.Windows.Forms.Label();
-            this.btnReset = new ns1.BunifuFlatButton();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox0)).BeginInit();
@@ -199,7 +198,6 @@
             // tabPage2
             // 
             this.tabPage2.BackColor = System.Drawing.Color.Gainsboro;
-            this.tabPage2.Controls.Add(this.btnReset);
             this.tabPage2.Controls.Add(this.btnDelete);
             this.tabPage2.Controls.Add(this.txtPartai1);
             this.tabPage2.Controls.Add(this.txtNama1);
@@ -240,7 +238,7 @@
             this.btnDelete.IconVisible = false;
             this.btnDelete.IconZoom = 90D;
             this.btnDelete.IsTab = false;
-            this.btnDelete.Location = new System.Drawing.Point(502, 355);
+            this.btnDelete.Location = new System.Drawing.Point(626, 355);
             this.btnDelete.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(36)))), ((int)(((byte)(58)))));
@@ -424,43 +422,6 @@
             this.label6.TabIndex = 15;
             this.label6.Text = "Nama";
             // 
-            // btnReset
-            // 
-            this.btnReset.Activecolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
-            this.btnReset.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(36)))), ((int)(((byte)(58)))));
-            this.btnReset.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnReset.BorderRadius = 0;
-            this.btnReset.ButtonText = "Reset All";
-            this.btnReset.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnReset.DisabledColor = System.Drawing.Color.Gray;
-            this.btnReset.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.Iconcolor = System.Drawing.Color.Transparent;
-            this.btnReset.Iconimage = null;
-            this.btnReset.Iconimage_right = null;
-            this.btnReset.Iconimage_right_Selected = null;
-            this.btnReset.Iconimage_Selected = null;
-            this.btnReset.IconMarginLeft = 0;
-            this.btnReset.IconMarginRight = 0;
-            this.btnReset.IconRightVisible = false;
-            this.btnReset.IconRightZoom = 0D;
-            this.btnReset.IconVisible = false;
-            this.btnReset.IconZoom = 90D;
-            this.btnReset.IsTab = false;
-            this.btnReset.Location = new System.Drawing.Point(655, 355);
-            this.btnReset.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
-            this.btnReset.Name = "btnReset";
-            this.btnReset.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(36)))), ((int)(((byte)(58)))));
-            this.btnReset.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(130)))), ((int)(((byte)(24)))), ((int)(((byte)(38)))));
-            this.btnReset.OnHoverTextColor = System.Drawing.Color.White;
-            this.btnReset.selected = false;
-            this.btnReset.Size = new System.Drawing.Size(114, 46);
-            this.btnReset.TabIndex = 37;
-            this.btnReset.Text = "Reset All";
-            this.btnReset.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.btnReset.Textcolor = System.Drawing.Color.White;
-            this.btnReset.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
-            // 
             // Manage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -509,6 +470,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn partai_calon;
         private System.Windows.Forms.DataGridViewImageColumn gambar_calon;
         private ns1.BunifuFlatButton btnDelete;
-        private ns1.BunifuFlatButton btnReset;
     }
 }
